@@ -47,3 +47,18 @@ document.querySelector("button").addEventListener("click", function() {
     document.querySelector(".number-2").innerHTML = "30";
     document.querySelector(".story-container").style = "display:block";
 });
+
+console.log(place);
+console.log(creatureName);
+console.log(color);
+console.log(color2);
+console.log(emotion);
+console.log(character);
+console.log(number);
+console.log(item);
+console.log(item2);
+console.log(verb);
+console.log(adverb);
+console.log(number2);
+console.log(creatureNameAgain);
+console.log(characterAgain);
