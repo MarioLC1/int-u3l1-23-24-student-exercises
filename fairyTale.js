@@ -21,11 +21,11 @@ var verb = "running";
 // 11. Create a variable named `adverb` and set the value to a string that says whatever adverb you want.
 var adverb = "smoothly";
 // 12. Create a variable named `number2` and set the value to a number greater than 1.
-var number2 = "30";
+const number2 = "30";
 
-var creatureNameAgain = "Lucina";
+const creatureNameAgain = "Lucina";
 
-var characterAgain = "Mario";
+const characterAgain = "Mario";
 
 // 14. Replace the null values with the appropriate variable you created above.
 // - Afterwards, run your code and press the button to see your story ✨
